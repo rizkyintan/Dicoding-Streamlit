@@ -2,7 +2,6 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 import streamlit as st
-sns.set_theme(style='dark')
 
 # Load data
 day_df = pd.read_csv("./day_clean.csv")
