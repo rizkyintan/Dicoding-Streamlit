@@ -1,1 +1,1 @@
-https://bike-sharing-dicoding-sayyidan.streamlit.app/
+https://dicoding-bikesharing-sayyidan.streamlit.app/
