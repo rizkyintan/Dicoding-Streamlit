@@ -35,7 +35,7 @@ By addressing these questions, the project seeks to provide insights into the fa
 1. Go to the project directory (Local):
 
     ```shell
-    cd bike-sharing/dashboard/
+    cd dashboard/
     streamlit run dashboard.py
     ```
     Or you can visit this website [Bike Sharing Streamlit](https://dicoding-bikesharing-sayyidan.streamlit.app/)

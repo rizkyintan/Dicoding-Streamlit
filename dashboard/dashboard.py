@@ -4,8 +4,8 @@ import seaborn as sns
 import streamlit as st
 
 # Load data
-day_df = pd.read_csv("dashboard/day_clean.csv")
-day_ori = pd.read_csv("data/day.csv")
+day_df = pd.read_csv("./day_clean.csv")
+day_ori = pd.read_csv("../data/day.csv")
 
 # rental bike amount based on weather
 grouped = day_df.groupby("weathersit")
