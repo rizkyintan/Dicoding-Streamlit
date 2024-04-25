@@ -2,8 +2,7 @@
 
 Repository ini berisi proyek data analytics yang saya kerjakan. Deployment in **Streamlit** [https://dicoding-bikesharing-sayyidan.streamlit.app/] <img src="https://user-images.githubusercontent.com/7164864/217935870-c0bc60a3-6fc0-4047-b011-7b4c59488c91.png" alt="Streamlit logo"></img>
 
-## Deskripsi
-Project Objective:
+## Project Objective
 
 The objective of this project is to analyze factors influencing bike rental demand and understand the patterns and variations in rental behavior across different weather conditions, seasons, and user types. The project aims to answer the following questions:
 
