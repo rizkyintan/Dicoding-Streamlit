@@ -3,9 +3,19 @@
 Repository ini berisi proyek data analytics yang saya kerjakan. Deployment in **Streamlit** [https://dicoding-bikesharing-sayyidan.streamlit.app/] <img src="https://user-images.githubusercontent.com/7164864/217935870-c0bc60a3-6fc0-4047-b011-7b4c59488c91.png" alt="Streamlit logo"></img>
 
 ## Deskripsi
-This project is to 
+Project Objective:
 
-## Struktur Direktori
+The objective of this project is to analyze factors influencing bike rental demand and understand the patterns and variations in rental behavior across different weather conditions, seasons, and user types. The project aims to answer the following questions:
+
+1. **Weather Influence:** Investigate whether people tend to rent bikes more on clear days compared to rainy or snow days.
+
+2. **Seasonal Demand:** Identify the season(s) during which bike rental demand significantly increases.
+
+3. **Weekly Variations:** Explore the weekly variations in bike rental demand and assess how these patterns differ between casual and registered users.
+
+By addressing these questions, the project seeks to provide insights into the factors driving bike rental demand, which can inform decision-making for bike-sharing services and urban transportation planning.
+
+## Directory Structure
 
 - **/data**: This directory contains of data used in the project in .csv format
 - **/dashboard**: This directory contains dashboard.py used to create dashboard in streamlit
@@ -26,7 +36,7 @@ This project is to
     pip install -r requirements.txt
     ```
 
-## Penggunaan
+## Utilization
 1. Go to the project directory (Local):
 
     ```shell
